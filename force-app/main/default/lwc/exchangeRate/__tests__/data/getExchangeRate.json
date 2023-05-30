@@ -1,0 +1,15 @@
+{
+  "time": {
+    "updated": "Mar 22, 2023 00:00:00 UTC",
+    "updatedISO": "2023-03-22T00:00:00+00:00",
+    "updateduk": "Mar 22, 2023 at 00:00 GMT"
+  },
+  "bpi": {
+    "USD": {
+      "code": "USD",
+      "rate": "5.2493",
+      "description": "United States Dollar",
+      "rate_float": 5.2493
+    }
+  }
+}
